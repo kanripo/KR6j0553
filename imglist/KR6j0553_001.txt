@@ -1,0 +1,4 @@
+001-0488c00	T 001-0488c	buddhist/T-taisho/T21/04/T21-0488.png
+001-0489a00	T 001-0489a	buddhist/T-taisho/T21/04/T21-0489.png
+001-0489b00	T 001-0489b	buddhist/T-taisho/T21/04/T21-0489.png
+001-0489c00	T 001-0489c	buddhist/T-taisho/T21/04/T21-0489.png
